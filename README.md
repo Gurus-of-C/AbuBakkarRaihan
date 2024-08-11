@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/W3r5yM8/BANNER.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.yourimageshare.com/UTiFdFlBRP.jpg)](https://github.com/AbuBakkarRaihan)
 <h1 align="center">Hi Guru👳🏼‍♂️ I am Abu Bakkar Raihan</h1>
 <h3 align="center">Beginner programmer | Learning C | Student</h3>
 
