@@ -1,6 +1,6 @@
 [![MasterHead](https://i.yourimageshare.com/UTiFdFlBRP.jpg)](https://github.com/AbuBakkarRaihan)
 <h1 align="center">Hi Guru👳🏼‍♂️ I am Abu Bakkar Raihan</h1>
-<h3 align="center">Beginner programmer | Learning C | Student</h3>
+<h3 align="center">Beginner programmer | Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakkarraihan&label=Profile%20views&color=0e75b6&style=flat" alt="abubakkarraihan" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C & C++**
 
-- 🤝 I’m looking for help with **C programming**
+- 🤝 I’m looking for help with **C & C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbuBakkarRaihan](https://github.com/AbuBakkarRaihan)
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/abubakkarraihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abubakkarraihan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@abubakkarraihan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abubakkarraihan1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abubakkarraihan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abubakkarraihan1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
