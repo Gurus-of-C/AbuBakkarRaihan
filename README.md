@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi Bro🤙 I am Abu Bakkar Raihan</h1>
+<h1 align="center">Hi Bro🤝 I am Abu Bakkar Raihan</h1>
 <h3 align="center">Beginner programmer | C, C++, HTML, CSS, GTK | Learning and building cool projects.</h3>
 
 <p align="left"> 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abubakkarraihan2023@gmail.com**
 
-- ⚡ Fun fact **GURU I AM SO FUNY!🤪**
+- ⚡ Fun fact **Bro I AM SO FUNY!🤪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
