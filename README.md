@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abubakkarraihan2023@gmail.com**
 
-- ⚡ Fun fact **Bro I AM SO FUNY!🤪**
+- ⚡ Fun fact **BRO I AM SO FUNY!🤪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
