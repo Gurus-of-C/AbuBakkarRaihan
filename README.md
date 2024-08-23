@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi Bro🤝 I am Abu Bakkar Raihan</h1>
+<h1 align="center">Hi Bro🤙 I am Abu Bakkar Raihan</h1>
 <h3 align="center">Beginner programmer | C, C++, HTML, CSS, GTK | Learning and building cool projects.</h3>
 
 <p align="left"> 
