@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi Bro🤝 I am Abu Bakkar Raihan</h1>
-<h3 align="center">Beginner programmer | C, C++, HTML, CSS, GTK | Learning and building cool projects.</h3>
+<h3 align="center">👨‍💻 Beginner Programmer | C, C++, HTML, CSS, GTK | 🛠️ Learning and building cool projects.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abubakkarraihan&label=Profile%20views&color=0e75b6&style=flat" alt="abubakkarraihan" /> 
