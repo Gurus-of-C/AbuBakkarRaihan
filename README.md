@@ -22,6 +22,9 @@
   <a href="https://www.hackerrank.com/abubakkarraihan1" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abubakkarraihan1" height="30" width="40" />
   </a>
+  <a href="https://codeforces.org/">
+    <img align="center" src="https://cdn-1.webcatalog.io/catalog/codeforces/codeforces-icon-filled-256.webp?v=1714773964567" alt="Codeforces" height="30" width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
