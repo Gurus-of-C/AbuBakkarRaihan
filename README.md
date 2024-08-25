@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://c.tenor.com/pT_eK7L76OEAAAAC/tenor.gif">
-    <img src="https://c.tenor.com/pT_eK7L76OEAAAAC/tenor.gif" alt="MasterHead">
+    <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="MasterHead">
   </a>
 </div>
 
